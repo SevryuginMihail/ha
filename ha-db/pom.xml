@@ -11,5 +11,19 @@
 
     <artifactId>ha-db</artifactId>
 
+    <!--    потом заполню, как до postgresql дойду-->
+
+    <dependencies>
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.liquibase</groupId>
+            <artifactId>liquibase-core</artifactId>
+        </dependency>
+    </dependencies>
+
+    <!--    потом заполню, как до postgresql дойду-->
 
 </project>
